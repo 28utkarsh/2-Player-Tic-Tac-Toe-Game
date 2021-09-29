@@ -8,4 +8,4 @@ Enjoy!!
 
 ### Demo
 
-[Play the Game](play_tic_tac_toe.gif)
+![Play the Game](play_tic_tac_toe.gif)
